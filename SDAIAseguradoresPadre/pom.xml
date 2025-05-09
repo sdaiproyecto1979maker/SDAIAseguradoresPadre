@@ -8,7 +8,8 @@
     <modules>
         <module>../../../ApisCore/SDAIApiCacheDSistema/SDAIApiCacheDSistema</module>
         <module>../../../ApisCore/SDAIApiUtilidades/SDAIApiUtilidades</module>
-        <module>../../../Core/SDAICoreWeb/SDAICoreWeb</module>
+        <module>../../../Core/SDAICore/SDAICore</module>
+        <module>../../../Core/SDAICoreWeb/SDAICoreWeb</module>        
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
